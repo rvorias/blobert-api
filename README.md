@@ -22,6 +22,8 @@ Run locally:
 $ uvicorn main:app --reload  
 ```
 
+To see the docs, go to http://localhost:8000/docs
+
 Serve temporarily
 
 ```shell
